@@ -20,7 +20,7 @@ Exercicio 10 - Tabs: Criar uma interface com abas (tabs) que alternam entre dife
 Vite, React,React-DOM
 npm create vite@latest my-project --template react,
 
-## Caso você já tenha criado o projeto ou queira adicionar navegue até a pasta e execute o comando para instalar as dependências:
+### Caso você já tenha criado o projeto ou queira adicionar navegue até a pasta e execute o comando para instalar as dependências:
 
 npm install
 
