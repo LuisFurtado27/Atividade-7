@@ -38,5 +38,5 @@ npm install react-router-dom
    npm install
    ```
 4. npm run dev
-5. Abra o navegador e acesse http://localhost:"porta configurada" ou aperte o + enter
+5. Abra o navegador e acesse http://localhost:"portaconfigurada" ou aperte o + enter
 6. Acesse o link referente a cada exercicios
